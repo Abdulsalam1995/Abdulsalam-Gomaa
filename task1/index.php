@@ -1,3 +1,3 @@
 <?php 
 
-echo "Hello From Index 'One'";
+echo "Hello From Index '1'";
